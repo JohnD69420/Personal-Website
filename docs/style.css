@@ -1,8 +1,12 @@
 body{
-  background-color: white
+  background-color: black;
 }
+p{
+  color: purple;
+}
+
 p1{
-  position: relative;
+  color: purple;
 }
 
 ul{
