@@ -1,11 +1,28 @@
+header{
+  background-color: white;
+  font-size: 21;
+  margin:-21px;
+}
+
+img{
+  float:right;
+  width:500px;
+  height:500px;
+}
+
 body{
-  background-color: pink;
+  margin:0;
+  background-color: lightgrey;
   padding: 20px;
+}
+
+div{
+  word-wrap: normal;
+  width: 300px;
 }
 
 h1{
   color: black;
-
 }
 
 h2{
@@ -18,12 +35,21 @@ h3{
 
 ul{
   list-style-type: none;
+  padding:20px;
 }
 
 ul1{
-  list-style-type: square;
+
+}
+
+ul2{
+  margin:0;
+  padding:0;
 }
 
 li1{
-  margin-right: 20px;
+  margin:0;
+  padding:0;
+  word-wrap: normal;
+  width: 200px;
 }
