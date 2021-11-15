@@ -2,6 +2,22 @@ body{
   background-color: pink;
 }
 
+h1{
+  color:dark-grey; 
+}
+
+h2{
+  color:light-grey; 
+}
+
+h3{
+  color:light-light-grey; 
+}
+
 ul{
   list-style-type: none;
+}
+
+ul1{
+  list-style-type: square;
 }
