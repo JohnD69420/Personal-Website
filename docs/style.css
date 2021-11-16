@@ -1,171 +1,55 @@
 header{
-  background-color: white;
-  font-size: 21;
+  background-color: darkgrey;
+  font-size: 40;
+  width:100%;
   margin:-21px;
+
 }
 
 img{
+  position: static;
+  height: 300px;
+  width: 300px;
   float:right;
-  width:500px;
-  height:500px;
 }
 
 body{
-  margin:0;
+  position: relative;
+  margin-left:auto;
+  margin-right: auto;
   background-color: lightgrey;
   padding: 20px;
 }
 
 div{
   word-wrap: normal;
-  width: 300px;
+  width: 600px;
 }
 
 h1{
+  position: relative;
+
   color: black;
+  font-size: 35;
 }
 
 h2{
-  color: white;
+  color: Black;
+  font-size: 30;
 }
 
 h3{
-  color: white;
+  color: Black;
+  font-size: 25;
 }
 
 ul{
   list-style-type: none;
   padding:20px;
 }
-
-ul1{
-
+li{
+  font-size: 20;
 }
-
-ul2{header{header{
-  background-color: white;
-  font-size: 21;
-  margin:-21px;
-}
-
-img{
-  background-attachment: fixed;
-  width:300px;
-  height:300px;
-  float:right;
-  margin-top:1px;
-}
-
-body{
-
-  margin:0;
-  background-color: lightgrey;
-  padding: 20px;
-}
-
-div{
-  word-wrap: normal;
-  width: 300px;
-}
-
-h1{
-  color: black;
-}
-
-h2{
-  color: white;
-}
-
-h3{
-  color: white;
-}
-
-ul{
-  list-style-type: none;
-  padding:20px;
-}
-
-ul1{
-
-}
-
-ul2{
-  margin:0;
-  padding:0;
-}
-
-li1{
-  margin:0;
-  padding:0;
-  word-wrap: normal;
-  width: 200px;
-}
-
-  background-color: white;
-  font-size: 21;
-  margin:-21px;
-}
-
-img{
-  background-attachment: fixed;
-  width:300px;
-  height:300px;
-  float:right;
-  margin-top:1px;
-}
-
-body{
-
-  margin:0;
-  background-color: lightgrey;
-  padding: 20px;
-}
-
-div{
-  word-wrap: normal;
-  width: 300px;
-}
-
-h1{
-  color: black;
-}
-
-h2{
-  color: white;
-}
-
-h3{
-  color: white;
-}
-
-ul{
-  list-style-type: none;
-  padding:20px;
-}
-
-ul1{
-
-}
-
-ul2{
-  margin:0;
-  padding:0;
-}
-
-li1{
-  margin:0;
-  padding:0;
-  word-wrap: normal;
-  width: 200px;
-}
-
-  margin:0;
-  padding:0;
-}
-
-li1{
-  margin:0;
-  padding:0;
-  word-wrap: normal;
-  width: 200px;
+p1{
+  font-size: 20;
 }
